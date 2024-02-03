@@ -25,7 +25,7 @@ Search for a recipe or an ingredient and select your best option. Then follow ea
 Pong game to play against the computer. Try to score more points than the machine!! [Play Pong-Game](https://rafaelcasillas100.github.io/pong-game/)
 
 ### 🎮  Mini-Game
-You have to click on the blank rectangles and they will change of color. You have to find the partner of each rectangle. If you click 2 rectangles of the same color, they will remain colored, so you can continue clicking the other rectangles. The game finishes when you find the color matches of all the rectangles. [Play Mini-Game](https://rafaelcasillas100.github.io/pong-game/)
+You have to click on the blank rectangles and they will change of color. You have to find the partner of each rectangle. If you click 2 rectangles of the same color, they will remain colored, so you can continue clicking the other rectangles. The game finishes when you find the color matches of all the rectangles. [Play Mini-Game](https://rafaelcasillas100.github.io/mini-game/)
 
 ### 🌎  Countries App
 Search countries by name and see their basic information, like their official name or flag. [Visit Countries App](https://rafaelcasillas100.github.io/countries/)
